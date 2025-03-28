@@ -1,6 +1,6 @@
 # Bloom-Filters
 
-## Core Traadeoffs
+## Core Tradeoffs
 
 The Bloom filter trades off accuracy (due to false positives) for efficiency in space and time.
 

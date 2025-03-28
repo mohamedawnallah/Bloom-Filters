@@ -1,8 +1,14 @@
 # Bloom-Filters
 
+## Bloom Filters
+
+Bloom Filters is simply a data structure that use probabilities part of its implementation
+strategy to check if a given candidate is memeber of a set. 
+
 ## Core Tradeoffs
 
-The Bloom filter trades off accuracy (due to false positives) for efficiency in space and time.
+The Bloom filter trades off accuracy (due to false positives) for efficiency in space and time. The
+false positives in that context mean an item said that it isn't a member of set although in fact it is.
 
 ## What is Guaranteed
 
